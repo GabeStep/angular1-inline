@@ -1,9 +1,9 @@
-## angular2-inline
+## angular1-inline
 
-*This extension replaces the language-vscode-javascript-angular2 extension.*
+*This extension is a fork of the angular2-inline extension.*
 
 This package is a language extension for Microsoft Visual Studio Code.  It extends the javascript and
-typescript languages to add Angular2 specific features for inline templates and stylesheets.
+typescript languages to add Angular specific features for inline templates and stylesheets.
 When you define an inline template or inline style sheet using the backtick character(`` ` ``) the
 content will be processed by this extension.
 

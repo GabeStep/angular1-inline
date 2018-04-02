@@ -1,8 +1,8 @@
 {
-  "name": "angular2-inline",
-  "description": "Visual Studio Code language extension for javascript/typescript files that use Angular2.",
-  "version": "0.0.17",
-  "publisher": "natewallace",
+  "name": "angular1-inline",
+  "description": "Visual Studio Code language extension for javascript/typescript files that use Angular.",
+  "version": "0.0.1",
+  "publisher": "gabestep",
   "license": "UNLICENSED",
   "repository": {
     "type": "git",
