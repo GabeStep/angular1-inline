@@ -6,7 +6,7 @@
   "license": "UNLICENSED",
   "repository": {
     "type": "git",
-    "url": "https://github.com/natewallace/angular2-inline.git"
+    "url": "https://github.com/GabeStep/angular1-inline.git"
   },
   "engines": {
     "vscode": "^1.7.1"
